@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    /* margin-top: 200px; */
+}
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    width: 520px;
+    border-radius: 15px;
+}
+.head{
+    font-weight: 800;
+    margin: 20px;
+}
+#email{
+    width: 320px;
+}
+#name{
+    width: 320px;
+}
+.error-text{
+    font-weight: 500;
+}
+button{
+    background-color: blue;
+    color:white;
+    margin: 20px;
+}
